@@ -1,0 +1,15 @@
+C:\Users\lovem\HOMWORK2\bin\Debug\net6.0\HOMWORK2.exe
+C:\Users\lovem\HOMWORK2\bin\Debug\net6.0\HOMWORK2.deps.json
+C:\Users\lovem\HOMWORK2\bin\Debug\net6.0\HOMWORK2.runtimeconfig.json
+C:\Users\lovem\HOMWORK2\bin\Debug\net6.0\HOMWORK2.dll
+C:\Users\lovem\HOMWORK2\bin\Debug\net6.0\HOMWORK2.pdb
+C:\Users\lovem\HOMWORK2\obj\Debug\net6.0\HOMWORK2.csproj.AssemblyReference.cache
+C:\Users\lovem\HOMWORK2\obj\Debug\net6.0\HOMWORK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lovem\HOMWORK2\obj\Debug\net6.0\HOMWORK2.AssemblyInfoInputs.cache
+C:\Users\lovem\HOMWORK2\obj\Debug\net6.0\HOMWORK2.AssemblyInfo.cs
+C:\Users\lovem\HOMWORK2\obj\Debug\net6.0\HOMWORK2.csproj.CoreCompileInputs.cache
+C:\Users\lovem\HOMWORK2\obj\Debug\net6.0\HOMWORK2.dll
+C:\Users\lovem\HOMWORK2\obj\Debug\net6.0\refint\HOMWORK2.dll
+C:\Users\lovem\HOMWORK2\obj\Debug\net6.0\HOMWORK2.pdb
+C:\Users\lovem\HOMWORK2\obj\Debug\net6.0\HOMWORK2.genruntimeconfig.cache
+C:\Users\lovem\HOMWORK2\obj\Debug\net6.0\ref\HOMWORK2.dll
